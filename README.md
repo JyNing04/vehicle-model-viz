@@ -33,4 +33,3 @@ pip install -r requirements.txt
 
 # Run the validation script
 python3 dynamic_validation.py
->>>>>>> 37abfe0 (initial commit)
