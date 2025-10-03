@@ -1,7 +1,5 @@
 # vehicle-model-viz
-A lightweight Python toolkit for validating vehicle dynamics models through animated visualizations. 
-=======
-# Dynaviz 🚗📈
+
 *A vehicle dynamics model validation & visualization tool*
 
 This repository provides visualization tools to validate vehicle dynamics models using **matplotlib animation**.  
